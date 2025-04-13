@@ -8,9 +8,9 @@
 
 ---
 
-## TriGorilla Pro B V_1.0.2 (Stock) 
+## Trigorilla Pro B V_1.0.2 (Stock) 
   
-The stock mainboard is the "TriGorilla Pro B_1.0.2".  
+The stock mainboard is the "Trigorilla Pro B_1.0.2".  
 It is a 32bit 24V mainboard with a Huada HC32F460 KCTA ARM Cortex-M4 with 192KB SRAM and 512KB Flash.  
 The speed  of the ARM chip is listed as 200MHz by the manufacturer.  
 It offers a microSD card reader, a USB-C connector and a 10 pin connector for adding the control unit.    
@@ -30,7 +30,11 @@ The mainboard comes with TMC2208 silent stepper drivers *soldered* onto the boar
     Thanks again to @aspiringnobody who came across this and reported it!  
 -->  
   
-![Mainboard TriGorilla front](../assets/images/mobo_K2_full_web.jpeg)  
+![Mainboard TriGorilla front assembled](../assets/images/mobo_K2_full_web.jpeg)  
+
+![Mainboard TriGorilla front](../assets/images/Trigorilla_Pro_B_v102_front_web.jpg)  
+
+![Mainboard TriGorilla back](../assets/images/Trigorilla_Pro_B_v102_back_web.jpg)  
   
 <!--
 ![Mainboard TriGorilla back](../assets/images/mainboard_K2Neo_back_web.jpg)    
